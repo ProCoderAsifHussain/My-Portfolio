@@ -31,7 +31,7 @@ nav {
 }
 
 span {
-    color: #3dbfd9;
+    color: #ffffff;
 }
 
 nav ul {
@@ -101,6 +101,7 @@ h4 {
     color: #fbfbfb;
     letter-spacing: 2px;
     font-size: clamp(16px, 2vw, 20px);
+    margin-top: 70px;
 }
 
 .newslatter form {
